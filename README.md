@@ -23,11 +23,21 @@ the single most critical node that, if blocked, would disrupt all attack routes.
 
 ---
 
-## Installation
+## Installation & Setup
 
+### 1. Download the Project
+1. Go to the top of this GitHub page and click the green **`<> Code`** button.
+2. Select **Download ZIP** from the dropdown menu.
+3. Once downloaded, right-click the `.zip` file and extract/unzip the folder to your computer.
+
+### 2. Open in Visual Studio Code
+1. Launch Visual Studio Code (VS Code).
+2. Go to **File → Open Folder** and select the `NetTrace` folder you just extracted.
+
+### 3. Install Dependencies
+Open the integrated terminal inside VS Code (you can press ``Ctrl` + ` ` ``) and run the following command:
 ```bash
 pip install scapy networkx matplotlib requests google-genai
-```
 
 ---
 
