@@ -35,7 +35,7 @@ the single most critical node that, if blocked, would disrupt all attack routes.
 2. Go to **File → Open Folder** and select the `NetTrace` folder you just extracted.
 
 ### 3. Install Dependencies
-Open the integrated terminal inside VS Code (you can press ``Ctrl` + ` ` ``) and run the following command:
+Open the integrated terminal inside VS Code and run the following command:
 ```bash
 pip install scapy networkx matplotlib requests google-genai
 ```
