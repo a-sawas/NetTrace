@@ -38,6 +38,7 @@ the single most critical node that, if blocked, would disrupt all attack routes.
 Open the integrated terminal inside VS Code (you can press ``Ctrl` + ` ` ``) and run the following command:
 ```bash
 pip install scapy networkx matplotlib requests google-genai
+```
 
 ---
 
